@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd webcamera_face_landmark_detection
+cd Face-Landmark-Detection
 mkdir build
 cd build
 cmake ..
