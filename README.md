@@ -1,4 +1,5 @@
-# face-landmark-detection-using-webcamera
+# Landmark Detection
+This program can detect face landmark points on a web camera
 
 # Installation
 After you download it, type:
