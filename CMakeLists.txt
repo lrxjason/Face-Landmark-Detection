@@ -1,7 +1,7 @@
 project(face)
 cmake_minimum_required(VERSION 2.8)
 
-find_package(OpenCV 3.3 REQUIRED)
+find_package(OpenCV REQUIRED)
 find_package(OpenMP)
 
 if(OPENMP_FOUND)
